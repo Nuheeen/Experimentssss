@@ -1,4 +1,4 @@
-///settings=editor.tokenColorCustomizations
+//////settings=editor.tokenColorCustomizations
 
 The scope used in settings.json must match the token VS Code assigns to System.out.println(). Here's how to identify it:
 
